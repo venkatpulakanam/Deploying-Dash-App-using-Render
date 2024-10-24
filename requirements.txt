@@ -1,7 +1,5 @@
-dash==2.9.3
+dash
 numpy
 pandas
-scikit_learn
 plotly
 gunicorn
-
